@@ -1,0 +1,12 @@
+.InfoBox {
+    text-align: center;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.bg {
+    background-color: #a8ac9c;
+}
